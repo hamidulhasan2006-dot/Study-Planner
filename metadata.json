@@ -1,0 +1,6 @@
+{
+  "name": "Student Study Planner",
+  "description": "University study planner with dashboard progress overview, task management, and two-way Google Sheets synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

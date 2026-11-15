@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Student Study Planner</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_week">Week</string>
+    <string name="nav_sheets">Google Sheets</string>
+
+    <string name="cd_previous_week">Previous week</string>
+    <string name="cd_next_week">Next week</string>
+    <string name="weekly_title">Weekly Schedule</string>
+
+    <string name="cd_app_banner">University study desk illustration</string>
+    <string name="cd_empty_tasks">Clean study desk illustration</string>
+    <string name="cd_sync_now">Synchronize with Google Sheets</string>
+    <string name="cd_add_task">Add new study task</string>
+    <string name="cd_toggle_complete">Mark task completed</string>
+    <string name="cd_edit_task">Edit task</string>
+    <string name="cd_delete_task">Delete task</string>
+    <string name="cd_clear_search">Clear search</string>
+    <string name="cd_sort_deadline">Sort tasks by deadline</string>
+    <string name="cd_open_sheet">Open spreadsheet in browser</string>
+    <string name="cd_copy_script">Copy Apps Script code</string>
+    <string name="cd_copy_headers">Copy spreadsheet column headers</string>
+    <string name="cd_focus_task">Start Pomodoro focus session for task</string>
+    <string name="cd_pomodoro_start">Start focus timer</string>
+    <string name="cd_pomodoro_pause">Pause focus timer</string>
+    <string name="cd_pomodoro_reset">Reset focus timer</string>
+    <string name="cd_pomodoro_expand">Expand or collapse focus timer</string>
+    <string name="cd_clear_focus_task">Unlink focused task</string>
+    <string name="pomodoro_subtitle">Tap play to start a focus block</string>
+
+    <string name="dashboard_title">Academic Overview</string>
+    <string name="dashboard_subtitle">Stay ahead of deadlines, exams, and coursework</string>
+    <string name="metric_total">Total Tasks</string>
+    <string name="metric_completed">Completed</string>
+    <string name="metric_pending">Pending</string>
+    <string name="metric_overdue">Overdue</string>
+    <string name="progress_overview">Study Progress</string>
+    <string name="urgent_section_title">Urgent &amp; Overdue Focus</string>
+    <string name="subject_breakdown_title">Workload by Subject</string>
+    <string name="empty_urgent_message">No urgent or overdue tasks right now. Great pace!</string>
+
+    <string name="tasks_title">Study Tasks</string>
+    <string name="search_placeholder">Search tasks, subjects, or notes…</string>
+    <string name="filter_all_subjects">All Subjects</string>
+    <string name="filter_all_statuses">All Statuses</string>
+    <string name="filter_all_priorities">All Priorities</string>
+    <string name="filter_all_types">All Types</string>
+    <string name="clear_filters">Clear Filters</string>
+    <string name="empty_tasks_title">Your study desk is clear</string>
+    <string name="empty_tasks_subtitle">Add an assignment, presentation, exam, or study block to get started.</string>
+    <string name="empty_filtered_title">No matching tasks</string>
+    <string name="empty_filtered_subtitle">Try adjusting your search or filter chips.</string>
+
+    <string name="action_add_task">New Task</string>
+    <string name="action_save_task">Save Task</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="delete_dialog_title">Delete this task?</string>
+    <string name="delete_dialog_body">This will remove the task locally and delete its row from your connected Google Sheet on next sync.</string>
+
+    <string name="sheets_title">Google Sheets Sync</string>
+    <string name="sheets_subtitle">Use Google Sheets as your live cloud study database</string>
+    <string name="sheets_sync_now">Sync Now</string>
+    <string name="sheets_pull_only">Pull from Sheet</string>
+    <string name="sheets_connect_guide_title">Step-by-Step Connection Guide</string>
+</resources>
